@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 const dotenv = require("dotenv");
 const connectDB = require("./config/db"); // import mongo conncect function
-const Todo = require("./models/todo.js");
+const Todo = require("./models/todo");
 const app = express();
 dotenv.config();
 
