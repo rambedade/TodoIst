@@ -55,7 +55,7 @@ A modern **Full-Stack Todo App** built using **Node.js, Express, MongoDB (Backen
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/fullstack-todo-app.git
+git clone https://github.com/rambedade/fullstack-todo-app.git
 cd fullstack-todo-app
 ```
 
