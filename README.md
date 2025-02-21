@@ -15,13 +15,13 @@ A modern **Full-Stack Todo App** built using **Node.js, Express, MongoDB (Backen
 
 ## **📂 Project Structure**
 ```
-📦 fullstack-todo-app
- ┣ 📂 backend              # Node.js + Express Backend
+📦 TodoIst
+ ┣ 📂 server              # Node.js + Express Backend
  ┃ ┣ 📂 config             # Database configuration
  ┃ ┣ 📂 models             # Mongoose models
  ┃ ┣ 📂 routes             # API routes
  ┃ ┣ 📜 server.js          # Main Express server
- ┣ 📂 frontend             # React + Tailwind Frontend
+ ┣ 📂 client            # React + Tailwind Frontend
  ┃ ┣ 📂 src                # React source files
  ┃ ┃ ┣ 📂 components       # UI Components
  ┃ ┃ ┣ 📜 App.jsx          # Main React component
@@ -55,7 +55,7 @@ A modern **Full-Stack Todo App** built using **Node.js, Express, MongoDB (Backen
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/rambedade/fullstack-todo-app.git
+git clone https://github.com/rambedade/TodoIst
 cd fullstack-todo-app
 ```
 
