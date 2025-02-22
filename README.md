@@ -65,7 +65,7 @@ cd TodoIst
 
 ### **2️⃣ Navigate to the Backend Folder**
 ```sh
-cd backend
+cd server
 ```
 
 ### **3️⃣ Install Dependencies**
@@ -91,7 +91,7 @@ The server will run at **http://localhost:5000**
 
 ### **6️⃣ Navigate to the Frontend Folder**
 ```sh
-cd frontend
+cd client
 ```
 
 ### **7️⃣ Install Dependencies**
